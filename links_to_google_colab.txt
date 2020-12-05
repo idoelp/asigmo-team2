@@ -1,0 +1,8 @@
+link to notebook for 1a classification grid-search optimization in Google Colab
+https://drive.google.com/file/d/1CRapUQKU96EztgVURDqLWC8Q_9fgI-42/view?usp=sharing
+
+link to notebook for 1a classification with BERT in Google Colab
+https://colab.research.google.com/drive/1OJuwrMZe8ClumBcDJ4JZvxyF28glFGD5?usp=sharing
+
+link to notebook for 1a classification with FastText in Google Colab
+https://colab.research.google.com/drive/1wFUZng7H70Aa4_j16j62mmd_kcBgSdK_?usp=sharing
