@@ -1,0 +1,15 @@
+Links to Google Colab Notebooks
+(I cant be sharing them directly in the repository, 
+as that option is only available in public repositories)
+
+1a classification grid-search optimization:
+https://drive.google.com/file/d/1CRapUQKU96EztgVURDqLWC8Q_9fgI-42/view?usp=sharing
+
+1a classification with BERT:
+https://colab.research.google.com/drive/1OJuwrMZe8ClumBcDJ4JZvxyF28glFGD5?usp=sharing
+
+1a classification with FastText
+https://colab.research.google.com/drive/1wFUZng7H70Aa4_j16j62mmd_kcBgSdK_?usp=sharing
+
+1a classification with Ensemble (baseline mnb, baseline logit, fasttext):
+https://colab.research.google.com/drive/1UfcIylcMF-x9XjB0ENsKq916-ZCCxn1j?usp=sharing
