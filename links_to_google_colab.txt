@@ -13,3 +13,9 @@ https://colab.research.google.com/drive/1wFUZng7H70Aa4_j16j62mmd_kcBgSdK_?usp=sh
 
 1a classification with Ensemble (baseline mnb, baseline logit, fasttext):
 https://colab.research.google.com/drive/1UfcIylcMF-x9XjB0ENsKq916-ZCCxn1j?usp=sharing
+
+full model v0.2.0 (the first staging model). Also available in the readme.md. 
+https://colab.research.google.com/drive/1sfuCcO00dfh5-VNQSZj4i0HGMzjdXJm_?usp=sharing
+
+full model v0.3.0 
+https://colab.research.google.com/drive/1Y5jOhoqy9BWjMT5Eb85iW2ftWMABtmyB?usp=sharing
