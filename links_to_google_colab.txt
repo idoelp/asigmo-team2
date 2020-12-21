@@ -17,5 +17,5 @@ https://colab.research.google.com/drive/1UfcIylcMF-x9XjB0ENsKq916-ZCCxn1j?usp=sh
 full model v0.2.0 (the first staging model). Also available in the readme.md. 
 https://colab.research.google.com/drive/1sfuCcO00dfh5-VNQSZj4i0HGMzjdXJm_?usp=sharing
 
-full model v0.3.0 
+full model v0.3.0 (bias analysis)
 https://colab.research.google.com/drive/1Y5jOhoqy9BWjMT5Eb85iW2ftWMABtmyB?usp=sharing
